@@ -1,1 +1,1 @@
-sizeof(price)/
+rand() % MAX

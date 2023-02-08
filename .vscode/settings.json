@@ -3,6 +3,8 @@
         "typeinfo": "c",
         "ctype.h": "c",
         "math.h": "c",
-        "string.h": "c"
+        "string.h": "c",
+        "struct,c": "c",
+        "time.h": "c"
     }
 }
